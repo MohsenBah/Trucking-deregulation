@@ -1,5 +1,5 @@
 # Trucking-deregulation
-The Analysis of Effect of Trucking Deregulation
+The Analysis of Effect of Trucking Deregulation (R project)
 
 Mohsen Bahremani, Lianghao Chen 
 
